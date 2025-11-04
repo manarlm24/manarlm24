@@ -17,7 +17,7 @@ I enjoy turning data into insight — from data pipelines to intelligent models 
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/manar-lemghari">
+  <a href="https://www.linkedin.com/in/manar-l-983a75216">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manarlemghari5@gmail.com">
@@ -37,16 +37,16 @@ I enjoy turning data into insight — from data pipelines to intelligent models 
 
 ### 🚀 Featured Projects
 
-- 🧠 [Arabic Tweet Sentiment Classification](https://github.com/manarlm24/arabic-tweet-sentiment-classification)  
+- 🧠 [Arabic Tweet Sentiment Classification](https://github.com/manarlm24/ArabTextClassification.git)  
   Built a 4-class sentiment model for Arabic tweets with optimized NLP preprocessing pipelines.
 
-- 🌍 [Smart Bin – AI Waste Sorting & Monitoring](https://github.com/manarlm24/smart-bin-ai)  
+- 🌍 [Smart Bin – AI Waste Sorting & Monitoring](https://github.com/manarlm24/SmartBin.git)  
   Transfer-learned MobileNet model deployed on Raspberry Pi to classify and monitor waste levels.
   
-  - 🌍 [Ask your Csv –LLM-Powered Data Query Engine](https://github.com/manarlm24/smart-bin-ai)  
+  - 🌍 [Ask your Csv –LLM-Powered Data Query Engine](https://github.com/manarlm24/Ask-ur-csv_V2.0.0.git)  
   Data querying framework using LLMs to translate questions into executable Pandas code..
 
-- ☁️ [IoT Temp & Humidity Monitor with RFID Security](https://github.com/manarlm24/iot-temp-humidity-rfid)  
+- ☁️ [IoT Temp & Humidity Monitor with RFID Security](https://github.com/manarlm24/ESP32-DHT11-RFID-AlertSystem.git)  
   ESP32-based monitoring system with threshold email alerts and RFID-secured access.
 
 ---
