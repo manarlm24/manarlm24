@@ -28,10 +28,10 @@ I enjoy turning data into insight — from data pipelines to intelligent models 
 ### 💻 Technical Skills
 
 **Languages:** Python, Java, C  
-**Data Science:** TensorFlow, LLm ,NLP, Computer Vision
+**Data Science:** LLm ,NLP, Computer Vision
 **Big Data:** Spark, Hadoop, MapReduce, HBase  
 **Databases:** MySQL,Postgresql ,MongoDB, SQL/PLSQL  
-**Frameworks & Tools:** FastAPI, React, Docker, Git,Streamlit
+**Frameworks & Tools:** FastAPI, React, Docker, Git,Streamlit,Tensorflow
 
 ---
 
