@@ -43,7 +43,7 @@ I enjoy turning data into insight — from data pipelines to intelligent models 
 - 🌍 [Smart Bin – AI Waste Sorting & Monitoring](https://github.com/manarlm24/SmartBin.git)  
   Transfer-learned MobileNet model deployed on Raspberry Pi to classify and monitor waste levels.
   
-  - 🌍 [Ask your Csv –LLM-Powered Data Query Engine](https://github.com/manarlm24/Ask-ur-csv_V2.0.0.git)  
+- 🌍 [Ask your Csv –LLM-Powered Data Query Engine](https://github.com/manarlm24/Ask-ur-csv_V2.0.0.git)  
   Data querying framework using LLMs to translate questions into executable Pandas code..
 
 - ☁️ [IoT Temp & Humidity Monitor with RFID Security](https://github.com/manarlm24/ESP32-DHT11-RFID-AlertSystem.git)  
